@@ -1,0 +1,15 @@
+.tabSlidePic{
+   border-radius: 10%;
+   width: 25rem;
+}
+ul{
+   list-style: none;
+   width: 85%;
+}
+.li__list{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 15px;
+   padding: 10px;
+}
